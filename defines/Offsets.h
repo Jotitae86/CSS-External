@@ -1,0 +1,1 @@
+#define LP_ISTOUCHING 0x4F82AC
